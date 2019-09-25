@@ -108,6 +108,8 @@ pop-up menu select the Gigabit0/1 interface near the bottom of the list. Then po
 Switch1 and select the same interface from this list. The cable will appear and both link lights
 will be amber, but will eventually turn to green after about a minute.
 
+You can customize the user experience based on your requirement. 
+Explore the different options available in `Options -> Preferences`. 
 After building, the network will look like the image shown below:
 
 image::https://github.com/Julie789/cisco-packet-tracer/blob/master/simple_network.PNG[title="Simple Network"]
