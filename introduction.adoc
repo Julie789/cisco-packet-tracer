@@ -96,6 +96,7 @@ The cable will now be connected and two blinking link lights will appear, one gr
 amber. After a while the amber light will turn green.
 
 Now connect all the remaining five PC with the Switch.
+
 * PC1 FastEthernet0 to Switch0 FastEthernet0/2
 * PC2 FastEthernet0 to Switch0 FastEthernet0/3
 * PC3 FastEthernet0 to Switch1 FastEthernet0/1
