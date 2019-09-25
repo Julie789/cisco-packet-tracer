@@ -57,14 +57,14 @@ It has various other options which can be explored going through the class.
 
 Now its time to create a simple network using Switches and PCs. 
 
-List of Devices Required: 
+==== List of Devices Required: 
 
 * 2960 Switch (from Network Device -> Switches): 2
 * PC (End Devices -> End Devices): 6
 * Copper Straight-Through Cable (Connections -> Connections): 6
 * Copper Cross-Over Cable (Connections -> Connections): 1
 
-How to Deploy Devices:
+==== How to Deploy Devices:
 
 1. First locate the 2960 Switch from the Device-Specific Selection box shown below.
 
@@ -84,7 +84,7 @@ To cancel the operation, Click on the Cancel symbol shown below.
 image::https://github.com/Julie789/cisco-packet-tracer/blob/master/cancel.PNG[Cancel]
 
 
-How to Cable the devices:
+==== How to Cable the devices:
 
 Click on the category that looks like a lightning bolt labeled Connections. In the Device-Specific
 Selection box, there will appear a series of cable types. Select the Copper Straight-Through
