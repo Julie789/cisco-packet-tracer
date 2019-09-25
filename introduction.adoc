@@ -1,0 +1,113 @@
+= Cisco Packet Tracer
+Julie Sunny Mathew <jsunnymathew@unomaha.edu>
+v1.0, 2019-09-25
+ifndef::bound[:imagesdir: figs]
+:icons: font
+
+This exercise will help in setting up and understanding the cisco packet tracer. 
+It is an exciting tool for network design, simulation and modelling which will help to develop the skills in networking, 
+cybersecurity and Internet of Things (IoT). 
+It is an innovative network configuration simulation tool, which will help to sharpen our network configuration skills 
+from desktop or mobile device.
+
+== Learning Objectives
+
+By the end of this lesson, you will be able to:
+
+* Explain the function and installation of Cisco Packet Tracer.
+* Brief idea of the different options available in Packet Tracer.
+* Create a simple network.
+
+== Steps
+
+=== Step 1: Download and Install Packet Tracer
+
+To install your copy of Cisco Packet Tracer, follow the below mentioned steps: 
+
+1. Enroll to the Cisco Networking Academy using _https://www.netacad.com/courses/packet-tracer_. Log into your "I'm Learning" page.
+2. Select Resources from the menu in the upper right portion of your screen.
+3. Select Download Packet Tracer.
+4. Choose the OS you are using and download the relevant files.
+5. Run the Packet Tracer setup executable file.
+6. Lauch the Cisco Packet Tracer, authenticate using your Netcad login information.
+7. Packet Tracer is ready to be explored.
+
+=== Step 2: Packet Tracer App Walkthrough
+
+It has the File menu commands (**Open, Save, Save As, Exit**) similar to the word processor or the spreadsheet. 
+The two special commands it has are the **Open Samples** and the **Exit and Logout** command. 
+The **Open Samples** will display the prebuilt network configurations available with the App.
+The **Exit and Logout** will remove the registration information for this copy of the App and will require to do the login again.
+
+The different categories of toolbars exist in below left corner of the App. 
+All these devices can be interconnected within Cisco Packet Tracer. 
+Choose any of the device from the list and start exploring.
+
+* Network Devices: It has different sub categories of Routers, Switches, Hubs, Wireless Devices, Security and WAN Emulation.
+* End Devices: It has End Devices, Home, Smart City, Industrial, Power Grid.
+* Components: It has Boards, Actuators and Sensors. It can be included to make internet of things packet tracer.
+* Connections: It will help to interconnect your devices via cables or structured cabling.
+* Miscellaneous: It has prebuilt network devices and end devices installed on them.
+* Multiuser Connection: It will have the ability to interconnect multiple packet tracers to build larger topology.
+
+On the top left corner, we will find different options to select, zoom, delete devices. 
+It has various other options which can be explored going through the class.
+
+=== Step 3: Finding, Deploying and Cabling Devices.
+
+Now its time to create a simple network using Switches and PCs. 
+
+List of Devices Required: 
+
+* 2960 Switch (from Network Device -> Switches): 2
+* PC (End Devices -> End Devices): 6
+* Copper Straight-Through Cable (Connections -> Connections): 6
+* Copper Cross-Over Cable (Connections -> Connections): 1
+
+How to Deploy Devices:
+
+1. First locate the 2960 Switch from the Device-Specific Selection box shown below.
+
+image::https://github.com/Julie789/cisco-packet-tracer/blob/master/Device_Selection.PNG[Device Selection]
+
+2. Click on the 2960 Switch and drag to your Logical Workspace. Add one more switch to your workspace.
+3. Similarly add PC from the End Devices tab.
+
+Tip #1
+If you want to put multiple devices of the same type onto the workspace, the clicking and dragging
+can become very tedious. To avoid this hold down the <CTRL> key as you click on the device in
+the Device-Specific Selection box.
+
+4. Hold the <CTRL> key and click on the logical workspace for 5 more PCs. 
+To cancel the operation, Click on the Cancel symbol shown below.
+
+image::https://github.com/Julie789/cisco-packet-tracer/blob/master/cancel.PNG[Cancel]
+
+
+How to Cable the devices:
+
+Click on the category that looks like a lightning bolt labeled Connections. In the Device-Specific
+Selection box, there will appear a series of cable types. Select the Copper Straight-Through
+cable type. Now point at the center of PC0 and click on it. You will see a pop-up menu appear
+showing the cable connection types. Point at, and click on the FastEthernet0 selection. Now a
+wire will appear anchored to the PC. Point at Switch0, and click on it. Another pop-up menu will
+appear with a much larger set of selections. Point at and click on the FastEthernet0/1 selection.
+The cable will now be connected and two blinking link lights will appear, one green and one
+amber. After a while the amber light will turn green.
+
+Now connect all the remaining five PC with the Switch.
+* PC1 FastEthernet0 to Switch0 FastEthernet0/2
+* PC2 FastEthernet0 to Switch0 FastEthernet0/3
+* PC3 FastEthernet0 to Switch1 FastEthernet0/1
+* PC4 FastEthernet0 to Switch1 FastEthernet0/2
+* PC5 FastEthernet0 to Switch1 FastEthernet0/3
+
+To connect between the Switch, we will require Copper Cross-Over Cable. Click on it and then point at and click on Switch0. From the
+pop-up menu select the Gigabit0/1 interface near the bottom of the list. Then point at and click
+Switch1 and select the same interface from this list. The cable will appear and both link lights
+will be amber, but will eventually turn to green after about a minute.
+
+After building, the network will look like the image shown below:
+
+image::https://github.com/Julie789/cisco-packet-tracer/blob/master/simple_network.PNG[title="Simple Network"]
+
