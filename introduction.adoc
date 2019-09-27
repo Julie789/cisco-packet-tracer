@@ -118,10 +118,11 @@ image::https://github.com/Julie789/cisco-packet-tracer/blob/master/simple_networ
 
 === Basics
 
-1. Why Cisco Packet tracer is used?
+1. What are the different available options in Device-Specific Selection in Cisco Packet Tracer?
 2. What is the difference between switches, routers and hubs? 
 2. How the connection is established between switch and a PC.
 
 === Do some research
 
-1. 
+1. What is the use of Cisco Packet Tracer? 
+2. List some of the advantages and siadvantages of Cisco Packet Tracer?
