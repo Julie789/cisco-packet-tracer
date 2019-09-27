@@ -14,8 +14,8 @@ from desktop or mobile device.
 
 By the end of this lesson, you will be able to:
 
-* Explain the function and installation of Cisco Packet Tracer.
-* Brief idea of the different options available in Packet Tracer.
+* Install Cisco Packet Tracer on your computer.
+* Explore different options available in Packet Tracer.
 * Create a simple network.
 
 == Steps
@@ -24,9 +24,9 @@ By the end of this lesson, you will be able to:
 
 To install your copy of Cisco Packet Tracer, follow the below mentioned steps: 
 
-1. Enroll to the Cisco Networking Academy using _https://www.netacad.com/courses/packet-tracer_. Log into your "I'm Learning" page.
-2. Select Resources from the menu in the upper right portion of your screen.
-3. Select Download Packet Tracer.
+1. Enroll to the Cisco Networking Academy using _https://www.netacad.com/courses/packet-tracer_. Log into your _I'm Learning_ page.
+2. Select _Resources_ from the menu in the upper right portion of your screen.
+3. Select _Download Packet Tracer_.
 4. Choose the OS you are using and download the relevant files.
 5. Run the Packet Tracer setup executable file.
 6. Lauch the Cisco Packet Tracer, authenticate using your Netcad login information.
@@ -114,3 +114,14 @@ After building, the network will look like the image shown below:
 
 image::https://github.com/Julie789/cisco-packet-tracer/blob/master/simple_network.PNG[title="Simple Network"]
 
+== Thought Questions
+
+=== Basics
+
+1. Why Cisco Packet tracer is used?
+2. What is the difference between switches, routers and hubs? 
+2. How the connection is established between switch and a PC.
+
+=== Do some research
+
+1. 
