@@ -29,7 +29,7 @@ To install your copy of Cisco Packet Tracer, follow the below mentioned steps:
 3. Select _Download Packet Tracer_.
 4. Choose the OS you are using and download the relevant files.
 5. Run the Packet Tracer setup executable file.
-6. Lauch the Cisco Packet Tracer, authenticate using your Netcad login information.
+6. Launch the Cisco Packet Tracer, authenticate using your Netcad login information.
 7. Packet Tracer is ready to be explored.
 
 === Step 2: Packet Tracer App Walkthrough
@@ -55,7 +55,7 @@ It has various other options which can be explored going through the class.
 
 === Step 3: Finding, Deploying and Cabling Devices.
 
-Now its time to create a simple network using Switches and PCs. 
+Now it's time to create a simple network using Switches and PCs. 
 
 ==== List of Devices Required: 
 
@@ -75,11 +75,11 @@ image::https://github.com/Julie789/cisco-packet-tracer/blob/master/Device_Select
 
 Tip #1
 If you want to put multiple devices of the same type onto the workspace, the clicking and dragging
-can become very tedious. To avoid this hold down the <CTRL> key as you click on the device in
+can become very tedious. To avoid this, hold down the <CTRL> key as you click on the device in
 the Device-Specific Selection box.
 
 4. Hold the <CTRL> key and click on the logical workspace for 5 more PCs. 
-To cancel the operation, Click on the Cancel symbol shown below.
+To cancel the operation, click on the Cancel symbol shown below.
 
 image::https://github.com/Julie789/cisco-packet-tracer/blob/master/cancel.PNG[Cancel]
 
@@ -103,8 +103,7 @@ Now connect all the remaining five PC with the Switch.
 * PC4 FastEthernet0 to Switch1 FastEthernet0/2
 * PC5 FastEthernet0 to Switch1 FastEthernet0/3
 
-To connect between the Switch, we will require Copper Cross-Over Cable. Click on it and then point at and click on Switch0. From the
-pop-up menu select the Gigabit0/1 interface near the bottom of the list. Then point at and click
+To connect between the Switch, we will require Copper Cross-Over Cable. Click on it and then point at and click on Switch0. From the pop-up menu select the Gigabit0/1 interface near the bottom of the list. Then point at and click
 Switch1 and select the same interface from this list. The cable will appear and both link lights
 will be amber, but will eventually turn to green after about a minute.
 
@@ -113,6 +112,16 @@ Explore the different options available in `Options -> Preferences`.
 After building, the network will look like the image shown below:
 
 image::https://github.com/Julie789/cisco-packet-tracer/blob/master/simple_network.PNG[title="Simple Network"]
+
+== Activity: Build the topology
+
+Create the network shown below:
+
+  a) Use port FastEthernet0/1 on the switch for PC0
+  b) Use port FastEthernet0/2 on the switch for PC1
+  c) Use port FastEthernet0/3 on the switch for Server0
+
+image::https://github.com/Julie789/cisco-packet-tracer/blob/master/ConfigureEndDevices.PNG[title="Activity 1"]
 
 == Thought Questions
 
@@ -125,4 +134,4 @@ image::https://github.com/Julie789/cisco-packet-tracer/blob/master/simple_networ
 === Do some research
 
 1. What is the use of Cisco Packet Tracer? 
-2. List some of the advantages and siadvantages of Cisco Packet Tracer?
+2. List some of the advantages and disadvantages of Cisco Packet Tracer?
