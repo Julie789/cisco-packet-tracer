@@ -1,0 +1,25 @@
+= Cisco Packet Tracer
+Julie Sunny Mathew <jsunnymathew@unomaha.edu>
+v1.0, 2019-09-25
+ifndef::bound[:imagesdir: figs]
+:icons: font
+
+This exercise will help in setting up and understanding the cisco packet tracer. 
+It is an exciting tool for network design, simulation and modelling which will help to develop the skills in networking, 
+cybersecurity and Internet of Things (IoT). 
+It is an innovative network configuration simulation tool, which will help to sharpen our network configuration skills 
+from desktop or mobile device.
+
+== Learning Objectives
+
+By the end of this lesson, you will be able to:
+
+* Install Cisco Packet Tracer on your computer.
+* Explore different options available in Packet Tracer.
+* Create a simple network.
+
+== Steps
+
+1. Enroll to the Cisco Networking Academy using _https://www.netacad.com/courses/packet-tracer_. Log into your _I'm Learning_ page.
+2. Explore the different courses of Cisco Packet Tracer. For now, we are focussing on the beginner's level of packet tracer.
+3. Sign up for the _Introduction to Packet Tracer_
