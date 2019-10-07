@@ -1,0 +1,72 @@
+= Cisco Packet Tracer: Simulation Mode and Physical View
+Julie Sunny Mathew <jsunnymathew@unomaha.edu>
+v1.0, 2019-10-07
+ifndef::bound[:imagesdir: figs]
+:icons: font
+
+This exercise will help to learn the simulation mode of Packet Tracer and also about the physical view of the network. 
+The simulation mode enables you to confirm device availability and to think about how the different kinds of information traverse your system.
+This mode is used to observe the traffic in detail with time controlled by the user.
+It will enable to create and capture PDUs to check several functions of the network, like:
+
+  * Basic Connectivity
+  * Security
+  * Applications and Services
+
+Packet tracer also has the physical workspace that allows to make network more realistic by adding backgrounds, buildings, and 
+wiring closets. These features are important for documentation, design, and visualization. You can see the actual layout of the 
+network within a room or a building. This provides valuable information into the flow of traffic and the suitability and placement 
+of equipment. The Physical view also has a great feature that shows the wireless coverage areas based on your equipment placement 
+within buildings.
+
+== Learning Objectives
+
+By the end of this lesson, you will be able to:
+
+* Investigate network functionality using Packet Tracer Simulation mode.
+* Understand the Physical view of the network.
+* How to use it as assessment tool.
+
+== Creating and viewing the contents of PDUs
+
+A PDU is a Protocol Data Unit, a message type that is going to transfer between network devices. 
+In earlier labs, the network was created using the realtime mode, which is the default, now we will be using simulation mode.
+Simulation mode allows us to create PDUs and view their contents. 
+
+Lets start understanding the networking fundamentals through simulation.
+In this excercise we will cover first chapters 3 and 4 of the begineer's course.
+
+**_Chapter 3: Explore Network Functionality Using PDUs_**
+
+This chapter will help you to use simualtion mode to create PDUs to replicate ICMP and ARP functionality and how to create more
+complex PDUs from the list of protocols such as DNS, HTTP, Telnet, SSH etc.
+Lets understand through different activity mentioned in the course.
+
+  * Complete the activity of _Explore Network Functionality using PDUs_ mentioned in the 
+  _Section 3.1.1.3: Packet Tracer - Explore Network Functionality using PDUs_
+
+**_Chapter 4: Packet Tracer Usage_** 
+
+This chapter will help you to get an idea of the Physical view and to assess the different file types created by Packet Tracer.
+It shows the relationships of the network devices along with the buildings and distance factors in the design.
+Lets understand how to use Physical view through activity mentioned in the course.
+
+* Complete the activity of _Packet Tracer Physical View_ mentioned in the 
+_Section 4.1.1.2: Packet Tracer - Packet Tracer Physical View_
+
+The packet tracer has the ability to create three different file types: .pkt, .pkz, and .pka. 
+Learn more about them in _Section 4.2.1.1: Packet Tracer File Types_.
+
+== Thought Questions
+
+=== Basics
+
+1. What is a PDU?
+2. What is the difference between Realtime mode and Simulation mode, Logical view and Physical view?
+3. What are the different layers of the OSI model?
+4. What are the different types of files created in Cisco Packet Tracer?
+
+=== Do some research
+
+1. How the data is transmitted between networks? 
+2. What are the contents of each layer of the OSI model when the data is transmitted?
