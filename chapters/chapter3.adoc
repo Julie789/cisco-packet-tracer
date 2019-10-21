@@ -1,0 +1,82 @@
+= Cisco Packet Tracer: IoT Components in Packet Tracer
+Julie Sunny Mathew <jsunnymathew@unomaha.edu>
+v1.0, 2019-10-10
+ifndef::bound[:imagesdir: figs]
+:icons: font
+
+This exercise will help to learn the IoT components of Packet Tracer and creating a smart home network. 
+The IoT is a connection of networked sensors, actuators, and smart devices that collect and share data.
+This chapter will help you to:
+
+  * Locate the IoT devices
+  * Connect them to your network
+  * Configure and modify scripts to make them function
+  * Control these devices remotely
+
+== Learning Objectives
+
+By the end of this lesson, you will be able to:
+
+* Investigate on the different components of IoT available in Packet Tracer.
+* How different IoT devices work..
+* How sensors interact with smart devices.
+* Basic configuration of the smart devices.
+* Create and connect IoT Devices into smart home network using home network or registration server.
+
+== Connecting IoT Devices in the network and control them remotely
+
+Packet Tracer involves many new features to support IoT. It has features to create smart homes, smart cities and smart factories.
+It includes the addition of the devices that can be configured to react to certain environmental values such as sun, wind, 
+rain and humidity.
+These devices can be configured to take actions based on the changing environmental values, such as 
+turning on lights and closing garage doors.
+
+Lets start understanding the IoT components and connect them to our network.
+In this excercise we will cover chapters 5 and 6 of the begineer's course.
+
+**_Chapter 5: IoT components in Packet Tracer_**
+
+Packet Tracer has a wide variety of sensors and smart devices that will allow you to design smart homes, smart cities, 
+smart factories, and smart power grids.
+This chapter will help you configure the IoT components and connect them to your smart home.
+Lets understand through the Internet of Things walk-through video and then completing the activity mentioned in the course.
+
+  * Watch the video of _Configure the IoT Devices using Packet Tracer_ mentioned in the 
+  _Section 5.1.1.1: Configure IoT Devices using Packet Tracer_
+  * Complete the activity of _Add IoT Devices to a Smart Home_ mentioned in the 
+  _Section 5.1.1.2: Packet Tracer - Add IoT Devices to a Smart Home_
+
+**_Chapter 6: Creating and Controlling Smart Home Network_** 
+
+This chapter will help you to connect and control smart devices using either a Home Gateway device or a remote registration server.
+First we will understand how to connect to the home gateway. 
+Once connected to the home gateway, the user can control and monitor the smart devices from their smartphone, tablet, or PC.
+Lets understand through the Accessing and Monitoring Smarter Devices walk-through video and 
+then completing the activity mentioned in the course.
+
+  * Watch the video of _Connecting and Monitoring IoT Devices Using a Home Gateway_ mentioned in the 
+  _Section 6.1.1.1: Connecting and Monitoring IoT Devices using a Home Gateway_
+  * Complete the activity of _Connect the devices to a Home Gateway and Monitor_ mentioned in the 
+  _Section 6.1.1.2: Packet Tracer - Connect the devices to a Home Gateway and Monitor_
+
+IoT devices can also be registered to a dedicated Registration Server for remote monitoring, configuration, or programming.
+Lets understand through the registration server walk-through video and then completing the activity mentioned in the course.
+
+  * Watch the video of _Registering Devices to a Dedicated Registration Server_ mentioned in the 
+  _Section 6.2.1.1: Registering Devices to a Dedicated Registration Server_
+  * Complete the activity of _Connect and control devices using a Registration Server_ mentioned in the 
+  _Section 6.2.1.2: Packet Tracer - Connect and control devices using a Registration Server_
+
+== Thought Questions
+
+=== Basics
+
+1. What is IoT?
+2. What are the different examples of the IoT devices?
+3. How does IoT work and what makes them smart device?
+4. What are the advantages and disadvantages of IoT devices?
+
+=== Do some research
+
+1. What are the security concerns related to IoT? 
+2. How to protect the IoT devices at home?
