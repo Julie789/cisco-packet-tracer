@@ -1,0 +1,56 @@
+= Cisco Packet Tracer: Packet Tracer Environment Controls
+Julie Sunny Mathew <jsunnymathew@unomaha.edu>
+v1.0, 2019-10-10
+ifndef::bound[:imagesdir: figs]
+:icons: font
+
+This exercise will help to learn the environmental controls that are available in Packet Tracer and how to configure them. 
+It will give you the experience in the environmental conditions and customize your own IoT environment.
+This chapter will help you to:
+
+  * Locate and configure the environmental controls within the containers.
+  * Interact them with the smart devices
+
+== Learning Objectives
+
+By the end of this lesson, you will be able to:
+
+* Describe the types of environmental controls that are available in Packet Tracer.
+* Configure environmental controls within containers.
+* Explain how smart devices interact with the environmental elements of Packet Tracer.
+* Adjust and set conditions for the IoT devices
+
+== Packet Tracer Environmental Controls
+
+Packet Tracer involves many devices or things that can be affected or respond to the environment in some way.
+There are 24 default environmental elements, such as temperature, rain, water level, wind speed and snow.
+
+Lets start understanding the environmental controls and configure them with the smart devices.
+In this excercise we will cover chapters 7 of the begineer's course.
+
+**_Chapter 7: Packet Tracer Environment Controls_**
+
+The Physical workspace has different containers and each container, the intercity, city, buildings and the wiring closet has their 
+own set of environmental values.
+This chapter will help you to learn about the environmental controls and how to configure them with the smart devices.
+Lets understand through the walk-through video and then completing the activity mentioned in the course.
+
+  * Watch the video of _Environmental Controls available in Packet Tracer_ mentioned in the 
+  _Section 7.1.1.1: Environmental Controls available in Packet Tracer_
+  * Learn how to configure them in _Configuring the Environment using containers_ mentioned in the 
+  _Section 7.1.2.1: Configuring the Environment using containers_
+  * Complete the activity of _Modify and Monitor Environmental Controls in Packet Tracer_ mentioned in the 
+  _Section 7.1.2.2: Packet Tracer - Modify and Monitor Environmental Controls in Packet Tracer_
+
+
+== Thought Questions
+
+=== Basics
+
+1. What are the different types of environmental controls available in Packet Tracer?
+2. Explain how smart devices interact with the Packet Tracer environmental elements?
+
+
+=== Do some research
+
+
