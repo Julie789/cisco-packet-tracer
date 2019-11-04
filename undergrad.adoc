@@ -1,0 +1,70 @@
+= Cisco Packet Tracer
+Julie Sunny Mathew <jsunnymathew@unomaha.edu>
+v1.0, 2019-09-25
+ifndef::bound[:imagesdir: figs]
+:icons: font
+
+This exercise will help in setting up and understanding the cisco packet tracer. 
+It is an exciting tool for network design, simulation and modelling which will help to develop the skills in networking, 
+cybersecurity and Internet of Things (IoT). 
+It is an innovative network configuration simulation tool, which will help to sharpen our network configuration skills 
+from desktop or mobile device.
+
+== Learning Objectives
+
+By the end of this lesson, you will be able to:
+
+* Install Cisco Packet Tracer on your computer.
+* Explore different options available in Packet Tracer.
+* Create a simple network.
+
+== Introduction to Packet Tracer
+
+Cisco provides various self paced courses to learn the basics of their simulation tool, Packet Tracer.
+The courses are free and good for begineers, who doesn't have any prior networking knowledge. 
+It teaches basic operations of the tool and is helpful for those who is planning to give Cisco Certification Course.
+
+== Steps to enroll the course
+
+1. Enroll to the Cisco Networking Academy using _https://www.netacad.com/courses/packet-tracer_. Log into your _I'm Learning_ page.
+2. Explore the different courses of Cisco Packet Tracer. For now, we are focussing on the beginner's level of packet tracer.
+3. Sign up for the _Introduction to Packet Tracer_ course and launch it.
+
+Lets start understanding the networking fundamentals through simulation. We will cover first two chapters of the begineer's course.
+
+**_Chapter 1: Introduction to Packet tracer_**
+
+This chapter will help you to get a brief idea of what is packet tracer is and
+also provide the instructions with the installation.
+Once the Packet tracer is installed, browse through the different tools options of the application.
+
+**_Chapter 2: The Packet Tracer User Interface_** 
+
+This chapter will help you to investigate the user interface of the packet tracer.
+Lets understand how to create a network and configure it through different activities mentioned in the course.
+
+1. Complete the activity of _Deploying and Cabling Devices Instructions_ mentioned in the 
+_Section 2.1.1.2: Packet Tracer- Finding and Deploying Devices_
+2. Once network is created, finish the activity of basic configuration of the end devices and components mentioned in the 
+_Section 2.1.1.4: Packet Tracer- GUI and CLI configurations_.
+3. Finally, complete the activity of creating a simple network in 
+_Section 2.1.1.5: Packet Tracer - Creating a Simple Network Using Packet Tracer_
+
+== Exercise
+
+Build the simple network shown in the figure.
+
+image::https://github.com/Julie789/cisco-packet-tracer/blob/master/exercise1.jpg[title="Simple Network"]
+
+== Thought Questions
+
+=== Basics
+
+1. What are the different available options in Device-Specific Selection in Cisco Packet Tracer?
+2. What is the difference between switches, routers and hubs? 
+2. How the connection is established between switch and a PC.
+
+=== Do some research
+
+1. What is the use of Cisco Packet Tracer? 
+2. List some of the advantages and disadvantages of Cisco Packet Tracer?
