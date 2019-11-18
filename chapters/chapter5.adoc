@@ -4,35 +4,35 @@ v1.0, 2019-10-10
 ifndef::bound[:imagesdir: figs]
 :icons: font
 
-This exercise will help to learn the environmental controls that are available in Packet Tracer and how to configure them. 
-It will give you the experience in the environmental conditions and customize your own IoT environment.
+This exercise will help to learn about the new Thing that is available in Packet Tracer and how to configure them. 
+It will give you the experience in programming the new IoT device.
 This chapter will help you to:
 
-  * Locate and configure the environmental controls within the containers.
-  * Interact them with the smart devices
+  * How to Create and Connect new Thing in Packet Tracer.
+  * How to access the programming environment.
+  * How to review and modify the existing scripts.
 
 == Learning Objectives
 
 By the end of this lesson, you will be able to:
 
-* Describe the types of environmental controls that are available in Packet Tracer.
-* Configure environmental controls within containers.
-* Explain how smart devices interact with the environmental elements of Packet Tracer.
-* Adjust and set conditions for the IoT devices
+* Custom Build your own IoT Device.
+* Access the programming enviornment and modify and review the existing scripts.
 
-== Packet Tracer Environmental Controls
+== Packet Tracer - Create Your Own Thing.
 
-Packet Tracer involves many devices or things that can be affected or respond to the environment in some way.
-There are 24 default environmental elements, such as temperature, rain, water level, wind speed and snow.
+Packet Tracer give us the option of creating a new IoT device other than the device already available. There are few prerequisitive for using _Thing_ in Packet Tracer which are:
+ * Decide on which new device you need to add.
+ * How it will connect to the network and how it will work.
+ * Find graphics to represent the beginning and the end state of the device.
+ * Identify the existing device which functions similar to the new device so that the existing script can be utilized for the new device.
 
-Lets start understanding the environmental controls and configure them with the smart devices.
-In this excercise we will cover chapters 7 of the begineer's course.
+Lets start understanding the how to create and add new Thing in the smart home network.
+In this excercise we will cover chapters 8 of the begineer's course.
 
 **_Chapter 8: Creating and Programming Objects in Packet Tracer_**
 
-The Physical workspace has different containers and each container, the intercity, city, buildings and the wiring closet has their 
-own set of environmental values.
-This chapter will help you to learn about the environmental controls and how to configure them with the smart devices.
+This chapter will help you to learn about creating a new smart device in the packet tracer.
 Lets understand through the walk-through video and then completing the activity mentioned in the course.
 
   * Watch the video of _Creating and Connecting a Thing_ mentioned in the 
@@ -49,8 +49,6 @@ Lets understand through the walk-through video and then completing the activity 
 
 === Basics
 
-1. What are the different types of environmental controls available in Packet Tracer?
-2. Explain how smart devices interact with the Packet Tracer environmental elements?
 
 
 === Do some research
