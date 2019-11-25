@@ -57,6 +57,12 @@ _Section 4.1.1.2: Packet Tracer - Packet Tracer Physical View_
 The packet tracer has the ability to create three different file types: .pkt, .pkz, and .pka. 
 Learn more about them in _Section 4.2.1.1: Packet Tracer File Types_.
 
+== Exercise
+
+Examine the functionality of all the layers of the protocols.
+
+image::https://github.com/Julie789/cisco-packet-tracer/blob/master/exercise1.jpg[title="Simple Network"]
+
 == Thought Questions
 
 === Basics
