@@ -51,6 +51,11 @@ _Section 2.1.1.4: Packet Tracer- GUI and CLI configurations_.
 3. Finally, complete the activity of creating a simple network in 
 _Section 2.1.1.5: Packet Tracer - Creating a Simple Network Using Packet Tracer_
 
+== Exercise
+
+Build the simple network shown in the figure.
+
+image::https://github.com/Julie789/cisco-packet-tracer/blob/master/exercise1.jpg[title="Simple Network"]
 
 == Thought Questions
 
